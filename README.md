@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/anomaly-guardian/main/banner.png" alt="Anomaly Guardian Banner" width="800"/>
+</p>
 # Anomaly Guardian
 
 **Anomaly Guardian** is a web-based application for **real-time anomaly detection**. It helps monitor data streams, identify irregular patterns, and send alerts for quick action, making it ideal for businesses and data-driven applications.

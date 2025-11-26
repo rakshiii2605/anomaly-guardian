@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/anomaly-guardian/main/banner.png" alt="Anomaly Guardian Banner" width="800"/>
+  <img src="https://github.com/rakshiii2605/anomaly-guardian/blob/main/Screenshot%202025-10-16%20202154.png" alt="Anomaly Guardian Banner" width="800"/>
 </p>
 # Anomaly Guardian
 
